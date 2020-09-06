@@ -1,0 +1,6 @@
+
+Time: 09/01/20 01:44:50.302 - NOTIFICATION *** file /home/jenkins/workspace/cubrid_release_10.2/src/transaction/boot_cl.c, line 1130  CODE = -971, Tran = -1, EID = 1
+Program 'csql' (pid 72349) connected to database server 'demodb' on the host 'localhost' (port 1523).
+
+*** The previous error message is the last one. ***
+
